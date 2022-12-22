@@ -7,25 +7,25 @@ This is our Capstone Project at Kampus Merdeka Studi Independen batch 3 at Alter
 
 | User  | Admin |
 | ----------- | ----------- |
-| - [x] Register to the system using NIK | - [x] Manage vaccination bookings</li> |
-| - [x] Add their family members | - [x] Manage sessions availability |
-| - [x] Book vaccination sessions in nearby health facilities | - [x] Manage vaccine stocks |
-| - [x] Receive a vaccination pass to be shown in health facilities | - [x] Vaccination Names |
-| - [x] Find nearby health facilities | - [x] Manage User Register |
+| <ul><li>- [x] Register to the system using NIK</li>| <ul><li>- [x] Manage vaccination bookings</li> |
+| <ul><li>- [x] Add their family members</li>| <ul><li>- [x] Manage sessions availability</li> |
+| <ul><li>- [x] Book vaccination sessions in nearby health facilities</li>| <ul><li>- [x] Manage vaccine stocks</li> |
+| <ul><li>- [x] Receive a vaccination pass to be shown in health facilities</li>| <ul><li>- [x] Vaccination Names</li> |
+| <ul><li>- [x] Find nearby health facilities </li>| <ul><li>- [x] Manage User Register</li> |
 
 ### App preview
 
 <div>
 	<h4>Website</h4>
-	<img src='../assets/img/landing-admin.png' alt='landing-admin' />
+	<img src='assets/img/landing-admin.png' alt='landing-admin' />
 	<br />
-	<img src='../assets/img/dashboard-admin.png' alt='dashboard-admin' />
+	<img src='assets/img/dashboard-admin.png' alt='dashboard-admin' />
 </div>
 
 <div>
 	<h4>Mobile</h4>
-	<img width='50%' src='../assets/img/wellcome-mobile.jpg' alt='wellcome-mobile' />
-	<img width='50%' src='../assets/img/home-mobile.jpg' alt='home-mobile' />
+	<img width='50%' src='assets/img/wellcome-mobile.jpg' alt='wellcome-mobile' />
+	<img width='50%' src='assets/img/home-mobile.jpg' alt='home-mobile' />
 </div>
 
 ### Meet our team
