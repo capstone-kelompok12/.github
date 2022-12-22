@@ -17,15 +17,15 @@ This is our Capstone Project at Kampus Merdeka Studi Independen batch 3 at Alter
 
 <div>
 	<h4>Website</h4>
-	<img src='assets/img/landing-admin.png' alt='landing-admin' />
+	<img src='../assets/img/landing-admin.png' alt='landing-admin' />
 	<br />
-	<img src='assets/img/dashboard-admin.png' alt='dashboard-admin' />
+	<img src='../assets/img/dashboard-admin.png' alt='dashboard-admin' />
 </div>
 
 <div>
 	<h4>Mobile</h4>
-	<img src='assets/img/wellcome-mobile.jpg' alt='wellcome-mobile' />
-	<img src='assets/img/home-mobile.jpg' alt='home-mobile' />
+	<img width='50%' src='../assets/img/wellcome-mobile.jpg' alt='wellcome-mobile' />
+	<img width='50%' src='../assets/img/home-mobile.jpg' alt='home-mobile' />
 </div>
 
 ### Meet our team
