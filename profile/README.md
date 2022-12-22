@@ -17,29 +17,32 @@ This is our Capstone Project at Kampus Merdeka Studi Independen batch 3 at Alter
 
 <div>
 	<h4>Website</h4>
-	<img src='assets/img/landing-admin.png' alt='landing-admin' />
+	<img src='./assets/img/landing-admin.png' alt='landing-admin' />
 	<br />
-	<img src='assets/img/dashboard-admin.png' alt='dashboard-admin' />
+	<img src='./assets/img/dashboard-admin.png' alt='dashboard-admin' />
 </div>
 
-<div>
-	<h4>Mobile</h4>
-	<img width='50%' src='assets/img/wellcome-mobile.jpg' alt='wellcome-mobile' />
-	<img width='50%' src='assets/img/home-mobile.jpg' alt='home-mobile' />
-</div>
+<h4>Mobile</h4>
+
+| | |
+|:--:|:--:|
+| <img width='50%' src='./assets/img/wellcome-mobile.jpg' alt='wellcome-mobile' /> | <img width='50%' src='./assets/img/home-mobile.jpg' alt='home-mobile' /> |
+<!-- <div>	
+	<img width='50%' src='./assets/img/wellcome-mobile.jpg' alt='wellcome-mobile' />
+	<img width='50%' src='./assets/img/home-mobile.jpg' alt='home-mobile' />
+</div> -->
 
 ### Meet our team
 
-<h3 align="left">Languages and Tools:</h3>  
 <h4 align="left"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="28" height="28"/>  UI/UX Designer
 </h4>
 
 <ol>
-	<li>DEA INESIA SRI UTAMI</li>
-	<li>MUHAMAD AGUNG PRASTIYO</li>
-	<li>TIARA AURELLIA PUTRI INSYRA</li>
-	<li>NORMA SARI</li>
-	<li>BAYU ANUGRAH PUTRA</li>
+	<li><a href='https://dribbble.com/BANZAITESLA'>DEA INESIA SRI UTAMI</a></li>
+	<li><a href='https://dribbble.com/agpras'>MUHAMAD AGUNG PRASTIYO</a></li>
+	<li><a href='#'>TIARA AURELLIA PUTRI INSYRA</a></li>
+	<li><a href='https://dribbble.com/Nurmasari'>NORMA SARI</a></li>
+	<li><a href='#'>BAYU ANUGRAH PUTRA</a></li>
 </ol>
 
 <h4>
