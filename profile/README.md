@@ -40,9 +40,9 @@ This is our Capstone Project at Kampus Merdeka Studi Independen batch 3 at Alter
 <ol>
 	<li><a href='https://dribbble.com/BANZAITESLA'>DEA INESIA SRI UTAMI</a></li>
 	<li><a href='https://dribbble.com/agpras'>MUHAMAD AGUNG PRASTIYO</a></li>
-	<li><a href='#'>TIARA AURELLIA PUTRI INSYRA</a></li>
+	<li>TIARA AURELLIA PUTRI INSYRA</li>
 	<li><a href='https://dribbble.com/Nurmasari'>NORMA SARI</a></li>
-	<li><a href='#'>BAYU ANUGRAH PUTRA</a></li>
+	<li>BAYU ANUGRAH PUTRA</li>
 </ol>
 
 <h4>
