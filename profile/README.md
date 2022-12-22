@@ -19,7 +19,7 @@ This is our Capstone Project at Kampus Merdeka Studi Independen batch 3 at Alter
 	<h4>Website</h4>
 	<img src='assets/img/landing-admin.png' alt='landing-admin' />
 	<br />
-	<img src='assets/img/dashboard-admin.svg' alt='dashboard-admin' />
+	<img src='assets/img/dashboard-admin.png' alt='dashboard-admin' />
 </div>
 
 <div>
